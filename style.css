@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  background-color: rgb(50, 50, 128);
+  flex-direction: row;
+}
+.container-salmon {
+  display: flex;
+  background-color: darksalmon;
+}
+/*.imagen-señal {
+  width: 10px;
+  border-width: 3px;
+  border-width: dotted double;
+}*/
+/* .button {
+  padding: 0;
+  weight: 20;
+  margin: 20;
+  background: url(https://www.parkingfacil.com/56-medium_default/entrada-prohibida.jpg);
+  background-size: cover;
+} */
+.container-grey {
+  display: flex;
+  background-color: darkgrey;
+}
+.container-azul {
+  display: flex;
+  background-color: rgb(50, 50, 128);
+}
